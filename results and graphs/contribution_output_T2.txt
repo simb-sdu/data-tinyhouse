@@ -1,0 +1,1861 @@
+Singlefamilywood C2G,Singlefamilywood_cutoff391, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1557.2) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 15		(240.4) 	'Singlefamilywood_cutoff391' (square meter, DK, None)
+  2    	  1		( 14.4) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  3		( 42.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		( 18.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  4		( 57.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 17.7) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  1		(  8.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		( 50.3) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 30.2) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 85		(1316.8) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		(  8.8) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 12.2) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  8		(129.0) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 18		(280.0) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 27.1) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  1		( 22.9) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 34.9) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 32		(504.5) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 18		(277.7) 	'market for district heat, historical' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_cutoff391, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1014.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 24		(244.4) 	'Multifamilyconventional_cutoff391' (square meter, DK, None)
+  2    	  4		( 44.1) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  7.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 16.8) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		( 32.2) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		( 26.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 12.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 10		( 99.6) 	'A1-A3_Outer walls' (unit, DK, None)
+ 1    	 76		(769.8) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		(  5.2) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  7.1) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  7		( 75.4) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 16		(163.7) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 15.9) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  1		( 13.4) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 20.4) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 29		(294.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 16		(162.4) 	'market for district heat, historical' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_cutoff391, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1651.3) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 20		(334.5) 	'Singlefamilyconventional_cutoff391' (square meter, DK, None)
+  2    	  1		( 14.4) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  5		( 86.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		( 18.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  3		( 57.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 17.7) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		( 28.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  4		( 70.7) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 41.0) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 80		(1316.8) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		(  8.8) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 12.2) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  8		(129.0) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 17		(280.0) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 27.1) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  1		( 22.9) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 34.9) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 31		(504.5) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 17		(277.7) 	'market for district heat, historical' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_cutoff391, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(877.9) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 12		(108.1) 	'Multifamilywood_cutoff391' (square meter, DK, None)
+  2    	  2		( 17.5) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  7.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  1		( 10.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  1		(  7.1) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		( 17.7) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 12.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  4		( 31.4) 	'A1-A3_Outer walls' (unit, DK, None)
+ 1    	 88		(769.8) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		(  5.2) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  7.1) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  9		( 75.4) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 19		(163.7) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 15.9) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  2		( 13.4) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 20.4) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 34		(294.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 18		(162.4) 	'market for district heat, historical' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(452.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 46		(207.6) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk
+  2    	  9		( 40.0) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.6) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		( 14.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  6		( 27.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 23.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 10.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 18		( 80.5) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 54		(245.3) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 16		( 71.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 29		(130.2) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 10		( 43.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(624.4) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 33		(207.3) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenar
+  2    	  2		( 10.6) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  6		( 35.0) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 15.2) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  8		( 52.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 15.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  1		(  7.9) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  7		( 44.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 26.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 67		(417.1) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 20		(122.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 35		(221.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 12		( 73.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1098.4) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 21		(231.4) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_den
+  2    	  4		( 46.4) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.5) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  1		( 15.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		( 30.6) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		( 26.4) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 11.8) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  8		( 88.9) 	'A1-A3_Outer walls' (unit, DK, None)
+ 1    	 79		(867.0) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		(  5.8) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  8.0) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  8		( 84.9) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 17		(184.4) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 17.9) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  1		( 15.0) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 23.0) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 30		(332.2) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 17		(182.9) 	'market for district heat, historical' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(309.0) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(191.2) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk
+  2    	 12		( 37.5) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  6.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 13.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  8		( 25.6) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  7		( 21.9) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		(  9.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 24		( 73.2) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.0) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 38		(117.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  8		( 25.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 27		( 83.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  8.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(483.1) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 59		(283.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_d
+  2    	  2		(  9.1) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 16		( 78.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 13.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 10		( 50.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 14.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 24.9) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 58.1) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  7		( 34.5) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 41		(199.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 44.0) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 29		(140.8) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		( 15.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(200.3) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 41		( 82.5) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenari
+  2    	  6		( 11.1) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  6.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		(  8.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		(  5.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  7		( 14.1) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  9.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 12		( 24.3) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		(  3.0) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 59		(117.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 13		( 25.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 41		( 83.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  4		(  8.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(967.7) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 10		(100.6) 	'Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-ret
+  2    	  2		( 17.0) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.5) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  1		( 10.5) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  1		(  6.6) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		( 16.7) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 11.8) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  3		( 27.7) 	'A1-A3_Outer walls' (unit, DK, None)
+ 1    	 90		(867.0) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		(  5.8) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  8.0) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  9		( 84.9) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 19		(184.4) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 17.9) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  2		( 15.0) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 23.0) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 34		(332.2) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 19		(182.9) 	'market for district heat, historical' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1858.4) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 18		(328.9) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_de
+  2    	  1		( 12.1) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  5		( 88.3) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		( 17.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  3		( 58.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 16.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		( 29.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  4		( 66.7) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 40.2) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 82		(1529.5) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		( 10.3) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 14.1) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  8		(149.8) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 18		(325.2) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 31.5) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  1		( 26.5) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 40.5) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 32		(586.0) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 17		(322.6) 	'market for district heat, historical' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1754.4) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 13		(225.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-re
+  2    	  1		( 12.1) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  2		( 37.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		( 17.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  3		( 58.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 16.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		( 47.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 27.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 87		(1529.5) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		( 10.3) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 14.1) 	'residential heat from petrol' (megajoule, DK, None)
+  2    	  9		(149.8) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	 19		(325.2) 	'residential heat from natural gas' (megajoule, DK, None)
+  2    	  2		( 31.5) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	  2		( 26.5) 	'residential heat from wood pellets' (megajoule, DK, None)
+  2    	  2		( 40.5) 	'residential heat from heat pumps' (megajoule, DK, None)
+  2    	 33		(586.0) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	 18		(322.6) 	'market for district heat, historical' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(392.0) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 49		(192.2) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenar
+  2    	  2		(  9.1) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  8		( 31.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 13.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 50.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		( 14.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		(  7.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 41.3) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  6		( 24.7) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 51		(199.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 11		( 44.0) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 36		(140.8) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  4		( 15.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(336.4) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 27		( 91.1) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenari
+  2    	  4		( 13.4) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  6.6) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		(  9.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  2		(  5.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 15.3) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 10.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  8		( 26.4) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 73		(245.3) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 21		( 71.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 39		(130.2) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 13		( 43.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(718.9) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 42		(301.8) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_d
+  2    	  1		( 10.6) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 11		( 82.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 15.2) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  7		( 52.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 15.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 26.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  9		( 62.5) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		( 37.2) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 58		(417.1) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		(122.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 31		(221.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 10		( 73.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(442.8) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 11		( 49.4) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  5.0) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  5.3) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  4.2) 	'market for plywood' (cubic meter, RER, None)
+  2    	  2		( 10.1) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		( 14.5) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.7) 	'roof felt materials' (square meter, DK, None)
+  2    	  1		(  5.4) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 89		(393.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 70		(308.0) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 19		( 85.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_cutoff391, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(875.2) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  7		( 60.9) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  6.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  6.4) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  6.0) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		( 11.4) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  2		( 18.4) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  6.7) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 93		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  1		( 13.1) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  9.9) 	'residential heat from petroleum coke' (megajoule, DK, None)
+  2    	  5		( 40.3) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	 86		(749.3) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(311.2) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 44.2) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  4.5) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  4.9) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.8) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  3.1) 	'market for plywood' (cubic meter, RER, None)
+  2    	  3		(  9.6) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  4		( 12.7) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.6) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 86		(267.0) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 80		(249.4) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  6		( 17.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(870.7) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  6		( 56.3) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  5.2) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  5.6) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  6.0) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		( 10.2) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  2		( 17.9) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  5.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 94		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  2		( 13.1) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  9.9) 	'residential heat from petroleum coke' (megajoule, DK, None)
+  2    	  5		( 40.3) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	 86		(749.3) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(390.0) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 32		(123.0) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  6		( 24.3) 	'ecococon module materials' (unit, DK, None)
+  2    	 10		( 39.2) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  5.2) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  5		( 19.9) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  3.2) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  7.9) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  4.0) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.7) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.7) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  6.0) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  4.2) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 68		(267.0) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 64		(249.4) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  5		( 17.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(336.1) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 69.0) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  2.9) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  3.3) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.9) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  6.3) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  5.2) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 12.8) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  2.9) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  7.9) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  8.0) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  3.8) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  4.4) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 79		(267.0) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 74		(249.4) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  5		( 17.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(906.8) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 10		( 92.5) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  4.9) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  7.9) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  1		(  5.6) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  3		( 25.1) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  9.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  9.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  5.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 90		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  1		( 13.1) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  9.9) 	'residential heat from petroleum coke' (megajoule, DK, None)
+  2    	  4		( 40.3) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	 83		(749.3) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(970.4) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 16		(156.1) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  4		( 36.2) 	'ecococon module materials' (unit, DK, None)
+  2    	  5		( 44.5) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  7.8) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  3		( 29.9) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  6.8) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  7.0) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.1) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 84		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  1		( 13.1) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  9.9) 	'residential heat from petroleum coke' (megajoule, DK, None)
+  2    	  4		( 40.3) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	 77		(749.3) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(531.0) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 26		(137.7) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  5		( 28.3) 	'ecococon module materials' (unit, DK, None)
+  2    	  8		( 42.2) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  6.1) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  4		( 23.4) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  3.4) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  8.7) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  4.4) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  4.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  3.0) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  6.5) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  4.7) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 74		(393.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 58		(308.0) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 16		( 85.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(473.6) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 17		( 80.3) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  3.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  3.8) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  4.3) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  7.5) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  1		(  5.6) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 17.5) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  3.1) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  8.8) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  8.7) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  4.1) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  4.9) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 83		(393.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 65		(308.0) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 18		( 85.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_cutoff391, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(916.3) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 11		(102.0) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  4.8) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  5.0) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		( 10.8) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  1		(  6.3) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  3		( 25.1) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		( 10.7) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		( 10.8) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  4.9) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.9) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 89		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  1		( 13.1) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  9.9) 	'residential heat from petroleum coke' (megajoule, DK, None)
+  2    	  4		( 40.3) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	 82		(749.3) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_cutoff391, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(981.7) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 17		(167.3) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  4		( 35.3) 	'ecococon module materials' (unit, DK, None)
+  2    	  5		( 50.8) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  7.6) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  3		( 31.7) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  7.9) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  5.2) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  5.0) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  7.7) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.7) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 83		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  1		( 13.1) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		(  9.9) 	'residential heat from petroleum coke' (megajoule, DK, None)
+  2    	  4		( 40.3) 	'residential heat from firewood' (megajoule, DK, None)
+  2    	 76		(749.3) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 42, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(7011.6) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	  6		(434.2) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_de
+  2    	  1		(104.0) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		( 65.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 39.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  1		( 82.3) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  1		( 63.9) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 94		(6577.4) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		( 52.0) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 58.8) 	'residential heat from kerosene' (megajoule, DK, None)
+  2    	 40		(2827.9) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	  2		(143.3) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	 40		(2832.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	  7		(482.7) 	'market for district heat, historical' (megajoule, DK, None)
+  2    	  2		(115.9) 	'residential heat from gas works gas' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(5691.4) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  2		(137.0) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		( 51.3) 	'market for structural timber' (cubic meter, RER, None)
+ 1    	 98		(5554.3) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  2		( 94.2) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  5		(259.4) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	  1		( 34.7) 	'residential heat from coke' (megajoule, DK, None)
+  2    	 90		(5128.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(5927.8) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	  6		(373.5) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  2		(111.5) 	'ecococon module materials' (unit, DK, None)
+  2    	  1		( 80.7) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		( 81.5) 	'market for oriented strand board' (cubic meter, RER, None)
+ 1    	 94		(5554.3) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  2		( 94.2) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  4		(259.4) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	  1		( 34.7) 	'residential heat from coke' (megajoule, DK, None)
+  2    	 87		(5128.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(5807.0) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	  4		(252.7) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  2		( 96.0) 	'market for plywood' (cubic meter, RER, None)
+ 1    	 96		(5554.3) 	'market for residential energy, tiny house, historical' (megajoule, DK
+  2    	  2		( 94.2) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  4		(259.4) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	  1		( 34.7) 	'residential heat from coke' (megajoule, DK, None)
+  2    	 88		(5128.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 39, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(3791.5) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 10		(385.8) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_den
+  2    	  2		( 70.0) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		( 24.2) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  1		( 54.5) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  1		( 36.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 22.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  4		(159.2) 	'A1-A3_Outer walls' (unit, DK, None)
+ 1    	 90		(3405.7) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		( 26.9) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 30.4) 	'residential heat from kerosene' (megajoule, DK, None)
+  2    	 39		(1464.3) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	  2		( 74.2) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	 39		(1466.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	  7		(249.9) 	'market for district heat, historical' (megajoule, DK, None)
+  2    	  2		( 60.0) 	'residential heat from gas works gas' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 42, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(6897.2) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	  5		(319.8) 	'Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-re
+  2    	  1		( 64.5) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		( 65.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 58.5) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  1		( 38.5) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 95		(6577.4) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		( 52.0) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 58.8) 	'residential heat from kerosene' (megajoule, DK, None)
+  2    	 41		(2827.9) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	  2		(143.3) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	 41		(2832.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	  7		(482.7) 	'market for district heat, historical' (megajoule, DK, None)
+  2    	  2		(115.9) 	'residential heat from gas works gas' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 39, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(3606.3) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	  6		(200.6) 	'Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-ret
+  2    	  1		( 46.1) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		( 21.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  1		( 29.5) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  1		( 22.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  1		( 50.8) 	'A1-A3_Outer walls' (unit, DK, None)
+ 1    	 94		(3405.7) 	'market for residential energy, historical' (megajoule, DK, None)
+  2    	  1		( 26.9) 	'residential heat from lpg' (megajoule, DK, None)
+  2    	  1		( 30.4) 	'residential heat from kerosene' (megajoule, DK, None)
+  2    	 41		(1464.3) 	'residential heat from light fuel oil' (megajoule, DK, None)
+  2    	  2		( 74.2) 	'residential heat from heavy fuel oil' (megajoule, DK, None)
+  2    	 41		(1466.9) 	'market for electricity, historical' (kilowatt hour, DK, None)
+  2    	  7		(249.9) 	'market for district heat, historical' (megajoule, DK, None)
+  2    	  2		( 60.0) 	'residential heat from gas works gas' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(161.2) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 45		( 72.2) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-sc
+  2    	  6		(  9.2) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  5.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		(  7.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		(  4.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 12.9) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  6		(  9.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 20.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		(  2.5) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 55		( 89.0) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 26		( 41.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 26		( 42.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  5.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(116.4) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 54		( 62.8) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-sc
+  2    	  6		(  7.5) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  3.8) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  6		(  6.8) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  4		(  4.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	 10		( 11.7) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  7		(  8.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 15		( 17.8) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		(  2.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 46		( 53.6) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 15		( 17.6) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 28		( 32.9) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  3.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(416.1) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 24		(100.9) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenari
+  2    	  4		( 16.4) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  6.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 10.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  2		(  6.7) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 16.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 11.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  7		( 28.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.7) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 76		(315.2) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 22		( 91.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 41		(169.5) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 13		( 54.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(118.4) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 55		( 64.7) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-sc
+  2    	  7		(  7.9) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  4.0) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  6		(  6.9) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  4		(  4.4) 	'A1-A3_Roof' (unit, DK, None)
+  2    	 10		( 12.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  7		(  8.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 16		( 18.4) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		(  2.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 45		( 53.7) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 15		( 17.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 28		( 33.2) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  3.1) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(333.9) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 50		(167.2) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-s
+  2    	  2		(  7.4) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  8		( 26.8) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  4		( 12.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 14		( 45.4) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		( 11.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		(  6.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 10		( 34.3) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  7		( 22.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 50		(166.7) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 22		( 72.3) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 25		( 83.8) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		( 10.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(530.7) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 25		(135.3) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  5		( 26.3) 	'ecococon module materials' (unit, DK, None)
+  2    	  8		( 42.6) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  5.7) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  4		( 22.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  3.3) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  8.3) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  4.4) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  4.2) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  3.0) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  6.6) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.2) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 75		(395.4) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 59		(313.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 15		( 81.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(475.9) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 17		( 80.5) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  3.7) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  3.6) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  4.3) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  7.5) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  1		(  5.6) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 17.0) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  3.0) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  8.9) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  8.8) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  4.1) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.4) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 83		(395.4) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 66		(313.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 17		( 81.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(415.2) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(256.0) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2
+  2    	  2		(  7.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 18		( 73.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 12.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 11		( 46.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 12.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 22.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 50.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  8		( 31.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 38		(159.2) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		( 70.3) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 19		( 78.9) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  9.9) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(189.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(136.2) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_20
+  2    	 13		( 24.8) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  3.8) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		(  9.0) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 20.5) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 16.1) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  8.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 27		( 50.5) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 28		( 53.6) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 17.6) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 17		( 32.9) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  3.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(170.8) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 43		( 72.7) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-sc
+  2    	  6		(  9.4) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  5.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		(  7.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		(  4.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 13.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  9.1) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 12		( 21.0) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.5) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 57		( 98.1) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 25		( 42.5) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 29		( 49.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  4		(  6.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(258.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(160.7) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_20
+  2    	 12		( 31.2) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  5.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 11.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  9		( 23.0) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  7		( 18.7) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		(  9.1) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 23		( 59.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.5) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 38		( 98.1) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 16		( 42.5) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 19		( 49.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  6.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(255.5) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 15		( 38.2) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  4.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  4.2) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.7) 	'market for plywood' (cubic meter, RER, None)
+  2    	  3		(  8.8) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  4		(  9.7) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.5) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 85		(217.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 80		(205.0) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  5		( 12.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(386.0) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 49		(188.1) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenar
+  2    	  2		(  9.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  8		( 30.5) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 13.4) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 50.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 13.0) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		(  7.0) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 40.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  6		( 23.8) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 51		(197.9) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 11		( 42.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 37		(142.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  4		( 13.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(283.8) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 28		( 80.3) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  4		( 12.1) 	'ecococon module materials' (unit, DK, None)
+  2    	 10		( 27.3) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  2.5) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  5		( 14.8) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  1.9) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  4.2) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.2) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.3) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  4.6) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  2.5) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 72		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 70		(197.4) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  2		(  6.1) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(253.0) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 20		( 49.5) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  1.7) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  1.6) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.1) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.2) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  4.3) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		(  9.0) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  1.7) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without water, in 60% solution state' 
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without solvent, in 60% solution state
+  2    	  3		(  6.6) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  3		(  6.8) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  2.9) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  2.6) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 80		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 78		(197.4) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  2		(  6.1) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(936.0) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 34		(317.6) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_d
+  2    	  1		( 12.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  9		( 84.6) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 17.1) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  6		( 54.3) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 16.4) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		( 27.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  7		( 65.7) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 39.8) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 66		(618.4) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 18		(168.0) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 34		(317.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 14		(133.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(308.9) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 33		(101.2) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  6		( 17.4) 	'ecococon module materials' (unit, DK, None)
+  2    	 11		( 33.3) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  3.7) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  6		( 17.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  6.5) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.6) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.3) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  5.3) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.4) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 67		(207.7) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 64		(196.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 10.9) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(266.0) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 22		( 58.3) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  2.4) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  2.3) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.5) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  4.2) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  4.7) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 11.1) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  2.2) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  1.5) 	'market for alkyd paint, white, without water, in 60% solution state' 
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without solvent, in 60% solution state
+  2    	  3		(  7.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  3		(  7.2) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  3.3) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.5) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 78		(207.7) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 74		(196.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 10.9) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(563.0) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 28		(156.6) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  6		( 35.2) 	'ecococon module materials' (unit, DK, None)
+  2    	  8		( 45.1) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  7.6) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  5		( 27.9) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  3.6) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  9.3) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  4.8) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  4.6) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  3.3) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  7.0) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.2) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 72		(406.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 53		(297.6) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 19		(108.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(499.3) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 19		( 93.0) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  3.7) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  4.8) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  4.6) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  9.1) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  1		(  6.0) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  5		( 22.7) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  3.3) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  9.7) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  9.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  4.4) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.5) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 81		(406.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 60		(297.6) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 22		(108.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(257.1) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 64		(163.5) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_20
+  2    	 12		( 31.9) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  5.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		( 11.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  9		( 23.2) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  7		( 19.1) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		(  9.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 23		( 60.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.5) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 36		( 93.6) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 16		( 41.3) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 18		( 46.4) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(251.8) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 15		( 38.5) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  4.0) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  4.4) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.7) 	'market for plywood' (cubic meter, RER, None)
+  2    	  3		(  8.8) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  4		(  9.9) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.5) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 85		(213.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 80		(201.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  5		( 11.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(232.5) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 62		(144.4) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-s
+  2    	  3		(  6.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 10		( 22.4) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  5		( 11.8) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 18		( 41.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		(  8.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		(  6.0) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 27.8) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  9		( 20.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 38		( 88.0) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 12		( 27.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 24		( 55.0) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(245.4) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 15		( 37.7) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  4.0) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  4.2) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.7) 	'market for plywood' (cubic meter, RER, None)
+  2    	  4		(  8.8) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  4		(  9.4) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.5) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 85		(207.7) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 80		(196.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 10.9) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(462.7) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 12		( 56.4) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  5.5) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  5.7) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  2.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  5.5) 	'market for plywood' (cubic meter, RER, None)
+  2    	  2		( 10.7) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  4		( 17.8) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.8) 	'roof felt materials' (square meter, DK, None)
+  2    	  1		(  5.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 88		(406.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 64		(297.6) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 24		(108.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(477.4) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 59		(279.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_d
+  2    	  2		(  9.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 16		( 77.3) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 13.4) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 11		( 50.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 13.0) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 24.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 57.5) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  7		( 33.9) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 41		(197.9) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 42.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 30		(142.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		( 13.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(234.8) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 61		(144.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-s
+  2    	  3		(  6.6) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  9		( 21.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  5		( 11.9) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 18		( 41.5) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		(  8.4) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		(  6.0) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 27.5) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  9		( 20.2) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 39		( 90.9) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 13		( 29.8) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 24		( 55.7) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(115.2) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 55		( 63.3) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-sc
+  2    	  6		(  7.4) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  4		(  4.0) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  6		(  6.8) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  4		(  4.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	 10		( 11.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  7		(  8.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 16		( 18.2) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		(  2.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 45		( 51.9) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 14		( 16.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 28		( 32.4) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  3.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(463.9) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 22		(100.3) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenari
+  2    	  3		( 15.8) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  2		( 10.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  1		(  6.6) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 16.5) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 11.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  6		( 28.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.7) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 78		(363.7) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 21		( 98.8) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 40		(186.5) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 17		( 78.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(235.6) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 32.1) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  3.8) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  3.3) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.4) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.3) 	'market for plywood' (cubic meter, RER, None)
+  2    	  3		(  8.2) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		(  6.5) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.2) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 86		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 84		(197.2) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  3		(  6.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(271.5) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 58.2) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  2.2) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  2.5) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.5) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  4.3) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  4.7) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 11.2) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  2.2) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  1.5) 	'market for alkyd paint, white, without water, in 60% solution state' 
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without solvent, in 60% solution state
+  2    	  3		(  7.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  3		(  7.2) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  3.3) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.2) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 79		(213.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 74		(201.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 11.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(317.4) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 33		(104.1) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  6		( 18.7) 	'ecococon module materials' (unit, DK, None)
+  2    	 11		( 34.6) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  4.0) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  6		( 17.9) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  6.6) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.6) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.3) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  5.3) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.1) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 67		(213.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 64		(201.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 11.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(725.3) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 42		(302.6) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_d
+  2    	  2		( 11.1) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 11		( 81.6) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 15.3) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  7		( 52.9) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 15.0) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 26.2) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  9		( 63.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		( 37.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 58		(422.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		(121.1) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 32		(231.4) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 10		( 70.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(312.3) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 71		(221.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2
+  2    	  2		(  6.6) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 21		( 66.5) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  4		( 11.9) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 41.5) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		(  8.4) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  6		( 19.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 38.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  9		( 28.0) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 29		( 90.9) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 10		( 29.8) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 18		( 55.7) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(319.8) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 66.0) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  3.2) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  2.5) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.8) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  5.6) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  5.0) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 11.7) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  2.5) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  7.9) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  7.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  3.7) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  2		(  4.8) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 79		(253.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 74		(237.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  5		( 16.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(366.4) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 31		(112.6) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  5		( 19.0) 	'ecococon module materials' (unit, DK, None)
+  2    	 11		( 39.0) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  4.0) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  5		( 18.0) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.7) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  6.5) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.9) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.7) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.7) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  5.9) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  4.6) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 69		(253.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 65		(237.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 16.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(305.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(188.4) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk
+  2    	 12		( 36.8) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  5.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 13.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  8		( 25.1) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  7		( 21.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		(  9.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 24		( 72.0) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.9) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 38		(116.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  8		( 24.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 27		( 83.8) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  8.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(249.5) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 64		(160.5) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_20
+  2    	 13		( 31.5) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  5.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 11.2) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  9		( 23.0) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 18.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		(  9.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 24		( 58.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.5) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 36		( 89.0) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		( 41.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 17		( 42.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(403.6) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(252.2) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2
+  2    	  2		(  7.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 18		( 73.2) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 12.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 11		( 45.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 11.7) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  6		( 22.5) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 48.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  8		( 30.9) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 38		(151.4) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		( 70.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 18		( 71.6) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  9.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(254.2) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 20		( 50.7) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  2.0) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  1.6) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.1) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.2) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  4.4) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		(  9.4) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  1.7) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without water, in 60% solution state' 
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without solvent, in 60% solution state
+  2    	  3		(  6.6) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  3		(  6.8) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  2.9) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  2.9) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 80		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 78		(197.2) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  2		(  6.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(283.1) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 28		( 79.6) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  4		( 12.1) 	'ecococon module materials' (unit, DK, None)
+  2    	  9		( 25.8) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  2.5) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  5		( 15.2) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  1.8) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  4.1) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.2) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.1) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.4) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  4.7) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  2.8) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 72		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 70		(197.2) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  2		(  6.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(585.9) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 38		(222.3) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk
+  2    	  7		( 41.3) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		( 15.5) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  5		( 30.1) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 24.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 11.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 15		( 87.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.7) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 62		(363.7) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		( 98.8) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 32		(186.5) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 13		( 78.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(235.7) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 32.2) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  3.8) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  3.4) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.4) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.2) 	'market for plywood' (cubic meter, RER, None)
+  2    	  4		(  8.3) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		(  6.6) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.2) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 86		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 84		(197.4) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  3		(  6.1) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(418.6) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 60		(251.8) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2
+  2    	  2		(  7.4) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 17		( 73.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  3		( 12.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 11		( 45.4) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 11.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 22.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 48.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  7		( 30.8) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 40		(166.7) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		( 72.3) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 20		( 83.8) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		( 10.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(584.9) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  9		( 55.1) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  5.6) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  5.7) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  5.4) 	'market for plywood' (cubic meter, RER, None)
+  2    	  2		( 10.7) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		( 16.4) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  5.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 91		(529.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 64		(375.2) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 26		(154.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(319.7) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 32		(102.4) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  6		( 18.2) 	'ecococon module materials' (unit, DK, None)
+  2    	 10		( 33.2) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  3.9) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  6		( 18.0) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  6.6) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.6) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.4) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.5) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  5.3) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 68		(217.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 64		(205.0) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 12.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(276.1) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 58.8) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  2.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  2.4) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.5) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  2		(  4.3) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  4.7) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 11.3) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  2.2) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  1.5) 	'market for alkyd paint, white, without water, in 60% solution state' 
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without solvent, in 60% solution state
+  2    	  3		(  7.2) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  3		(  7.3) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  3.3) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.4) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 79		(217.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 74		(205.0) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  4		( 12.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(186.6) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(134.7) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_20
+  2    	 13		( 24.5) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  4.0) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		(  9.0) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 20.5) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 15.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  8.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 27		( 49.6) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 28		( 51.9) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 16.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 17		( 32.4) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  3.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(318.1) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 52		(166.7) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-s
+  2    	  2		(  7.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  8		( 26.6) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  4		( 12.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 14		( 45.6) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		( 11.7) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		(  6.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 34.3) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  7		( 22.2) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 48		(151.4) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 22		( 70.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 23		( 71.6) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  9.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(682.5) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 22		(152.7) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  5		( 32.4) 	'ecococon module materials' (unit, DK, None)
+  2    	  7		( 45.5) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  7.0) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  4		( 27.0) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  3.5) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  9.0) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  4.8) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  4.6) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  7.0) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 78		(529.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 55		(375.2) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 23		(154.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(622.5) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 15		( 92.7) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  3.7) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  4.4) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  4.7) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  9.0) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  1		(  6.0) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		( 22.6) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  3.2) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  9.8) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  9.6) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  4.4) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  5.5) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 85		(529.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 60		(375.2) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 25		(154.6) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(310.9) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(222.9) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2
+  2    	  2		(  6.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 21		( 66.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  4		( 11.8) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 41.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		(  8.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  6		( 19.9) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 13		( 39.3) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  9		( 29.0) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 28		( 88.0) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 27.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 18		( 55.0) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(840.5) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 26		(222.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenar
+  2    	  1		( 12.2) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  5		( 38.6) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 17.1) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  6		( 54.3) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 16.4) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  1		(  8.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  6		( 46.7) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		( 28.1) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 74		(618.4) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 20		(168.0) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 38		(317.1) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 16		(133.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(190.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(137.1) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_20
+  2    	 13		( 25.0) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  4.0) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		(  9.1) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 20.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 16.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  8.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 27		( 50.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 28		( 53.7) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 17.4) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 17		( 33.2) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  3.1) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(849.8) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 37		(315.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_d
+  2    	  1		( 12.0) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 10		( 84.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 17.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  6		( 53.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 16.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		( 27.0) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  8		( 65.0) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		( 39.6) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 63		(534.4) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 18		(154.7) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 34		(287.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 11		( 92.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(329.1) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 52		(170.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-s
+  2    	  2		(  7.3) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  8		( 27.3) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  4		( 12.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 14		( 46.0) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		( 12.3) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  2		(  6.6) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 11		( 35.6) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  7		( 22.4) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 48		(159.2) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 21		( 70.3) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 24		( 78.9) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  9.9) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(315.4) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 71		(224.3) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2
+  2    	  2		(  6.8) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 21		( 67.0) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  4		( 11.9) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 41.4) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		(  9.1) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  6		( 19.9) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 39.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  9		( 28.9) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 29		( 91.1) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	  9		( 29.5) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 18		( 56.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(458.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 46		(209.6) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk
+  2    	  9		( 39.9) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.6) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		( 14.8) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  6		( 27.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  5		( 23.4) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 10.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 18		( 82.1) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.4) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 54		(248.6) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 16		( 71.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 30		(136.0) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  9		( 41.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(195.7) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 40		( 79.0) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenari
+  2    	  5		(  9.8) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  5.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		(  8.3) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		(  5.1) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  7		( 13.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  9.5) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 12		( 23.6) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		(  2.9) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 60		(116.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 13		( 24.9) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 43		( 83.8) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  4		(  8.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(535.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 41		(219.9) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk
+  2    	  8		( 41.0) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  1		(  6.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		( 15.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  6		( 29.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 23.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 11.6) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 16		( 86.7) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.7) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 59		(315.2) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 17		( 91.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 32		(169.5) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 10		( 54.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(339.1) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 27		( 90.5) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenari
+  2    	  4		( 12.9) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  2		(  6.6) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  3		(  9.5) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  2		(  5.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  4		( 15.2) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  3		( 10.7) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  8		( 26.4) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  3.4) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 73		(248.6) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 21		( 71.2) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 40		(136.0) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 12		( 41.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(294.4) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 40.7) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  4.5) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  2		(  4.9) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.6) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.8) 	'market for plywood' (cubic meter, RER, None)
+  2    	  3		(  9.5) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		(  9.9) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.6) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 86		(253.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 81		(237.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  5		( 16.0) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(239.9) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 33.4) 	'tiny house materials' (square meter, DK, None)
+  2    	  2		(  3.8) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  3.4) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  1.4) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'market for plywood' (cubic meter, RER, None)
+  2    	  3		(  8.4) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		(  7.2) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.4) 	'roof felt materials' (square meter, DK, None)
+  2    	  2		(  4.3) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 86		(206.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 83		(200.3) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  3		(  6.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(630.9) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 33		(208.1) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenar
+  2    	  2		( 11.1) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  6		( 34.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 15.3) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  8		( 52.9) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 15.0) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  1		(  7.8) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  7		( 44.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 26.2) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 67		(422.8) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 19		(121.1) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 37		(231.4) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 11		( 70.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(755.9) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 29		(221.5) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenar
+  2    	  2		( 12.0) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	  5		( 38.9) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  2		( 17.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	  7		( 53.8) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  2		( 16.9) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  1		(  8.4) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  6		( 46.2) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  4		( 28.3) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 71		(534.4) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 20		(154.7) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 38		(287.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	 12		( 92.4) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(167.0) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 44		( 73.4) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-sc
+  2    	  6		(  9.5) 	'A1-A3_Slab' (unit, DK, None)
+  2    	  3		(  5.4) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  5		(  7.7) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	  3		(  4.8) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  8		( 13.1) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  5		(  9.0) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 13		( 21.3) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  1		(  2.5) 	'A1-A3_Technical equipment' (unit, DK, None)
+ 1    	 56		( 93.6) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 25		( 41.3) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 28		( 46.4) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  3		(  5.8) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(259.6) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 20		( 53.1) 	'wood tiny house materials' (square meter, DK, None)
+  2    	  1		(  2.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+  2    	  1		(  1.8) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  1		(  3.2) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.4) 	'market for wood cladding, softwood' (square meter, GLO, None)
+  2    	  2		(  4.5) 	'market for polyester-complexed starch biopolymer' (kilogram, GLO, Non
+  2    	  4		(  9.8) 	'market for plywood' (cubic meter, RER, None)
+  2    	  1		(  1.8) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  1		(  1.5) 	'market for alkyd paint, white, without water, in 60% solution state' 
+  2    	  1		(  1.4) 	'market for alkyd paint, white, without solvent, in 60% solution state
+  2    	  3		(  6.7) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  3		(  6.9) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  1		(  3.0) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.4) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 80		(206.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 77		(200.3) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  2		(  6.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(291.2) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 29		( 84.7) 	'ecococon tiny house materials' (square meter, DK, None)
+  2    	  5		( 13.6) 	'ecococon module materials' (unit, DK, None)
+  2    	  9		( 27.1) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  2.8) 	'market for sawnwood, softwood, dried (u=10%), planed' (cubic meter, R
+  2    	  5		( 15.7) 	'market for oriented strand board' (cubic meter, RER, None)
+  2    	  1		(  2.0) 	'market for cellulose fibre' (kilogram, CH, None)
+  2    	  2		(  4.4) 	'market for clay plaster' (kilogram, GLO, None)
+  2    	  1		(  3.3) 	'market for gypsum plasterboard' (kilogram, GLO, None)
+  2    	  1		(  3.2) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  2.4) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+  2    	  2		(  4.8) 	'market for door, outer, wood-aluminium' (square meter, GLO, None)
+  2    	  1		(  3.3) 	'market for steel, low-alloyed' (kilogram, GLO, None)
+ 1    	 71		(206.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 69		(200.3) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	  2		(  6.2) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(443.8) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 11		( 48.4) 	'tiny house materials' (square meter, DK, None)
+  2    	  1		(  5.0) 	'market for glazing, triple, U<0.5 W/m2K' (square meter, GLO, None)
+  2    	  1		(  5.4) 	'market for fibre cement facing tile' (kilogram, GLO, None)
+  2    	  1		(  4.1) 	'market for plywood' (cubic meter, RER, None)
+  2    	  2		( 10.2) 	'market for stone wool' (kilogram, GLO, None)
+  2    	  3		( 13.5) 	'market for structural timber' (cubic meter, RER, None)
+  2    	  1		(  2.7) 	'roof felt materials' (square meter, DK, None)
+  2    	  1		(  5.4) 	'market for window frame, wood-metal, U=1.6 W/m2K' (square meter, GLO,
+ 1    	 89		(395.4) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+  2    	 71		(313.8) 	'market for individual heat, tiny house, future' (megajoule, DK, None)
+  2    	 18		( 81.5) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(237.7) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 62		(146.6) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-s
+  2    	  3		(  6.8) 	'A1-A3_Technical equipment' (unit, DK, None)
+  2    	 10		( 22.8) 	'A1-A3_Outer walls' (unit, DK, None)
+  2    	  5		( 11.9) 	'A1-A3_Windows and doors' (unit, DK, None)
+  2    	 17		( 41.4) 	'A1-A3_Ground slab' (unit, DK, None)
+  2    	  4		(  9.1) 	'A1-A3_Roof' (unit, DK, None)
+  2    	  3		(  6.1) 	'A1-A3_Inner walls' (unit, DK, None)
+  2    	 12		( 27.9) 	'A1-A3_Foundation' (unit, DK, None)
+  2    	  9		( 20.6) 	'A1-A3_Slab' (unit, DK, None)
+ 1    	 38		( 91.1) 	'market for residential energy, future' (megajoule, DK, None)
+  2    	 12		( 29.5) 	'market for district heat, future' (megajoule, DK, None)
+  2    	 24		( 56.3) 	'market for individual heat, future' (megajoule, DK, None)
+  2    	  2		(  5.3) 	'market for electricity, low voltage' (kilowatt hour, DK, None)
+

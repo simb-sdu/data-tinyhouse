@@ -1,0 +1,630 @@
+Singlefamilywood C2G,Singlefamilywood_cutoff391, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1557.2) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 15		(240.4) 	'Singlefamilywood_cutoff391' (square meter, DK, None)
+ 1    	 85		(1316.8) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_cutoff391, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1014.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 24		(244.4) 	'Multifamilyconventional_cutoff391' (square meter, DK, None)
+ 1    	 76		(769.8) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_cutoff391, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1651.3) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 20		(334.5) 	'Singlefamilyconventional_cutoff391' (square meter, DK, None)
+ 1    	 80		(1316.8) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_cutoff391, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(877.9) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 12		(108.1) 	'Multifamilywood_cutoff391' (square meter, DK, None)
+ 1    	 88		(769.8) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(452.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 46		(207.6) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk
+ 1    	 54		(245.3) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(624.4) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 33		(207.3) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenar
+ 1    	 67		(417.1) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1098.4) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 21		(231.4) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_den
+ 1    	 79		(867.0) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(309.0) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(191.2) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk
+ 1    	 38		(117.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(483.1) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 59		(283.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_d
+ 1    	 41		(199.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(200.3) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 41		( 82.5) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenari
+ 1    	 59		(117.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(967.7) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 10		(100.6) 	'Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-ret
+ 1    	 90		(867.0) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1858.4) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 18		(328.9) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_de
+ 1    	 82		(1529.5) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(1754.4) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 13		(225.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-re
+ 1    	 87		(1529.5) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(392.0) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 49		(192.2) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenar
+ 1    	 51		(199.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(336.4) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 27		( 91.1) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenari
+ 1    	 73		(245.3) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(718.9) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 42		(301.8) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_d
+ 1    	 58		(417.1) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(442.8) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 11		( 49.4) 	'tiny house materials' (square meter, DK, None)
+ 1    	 89		(393.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+tiny house C2G,tinyhouse_cutoff391, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(875.2) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  7		( 60.9) 	'tiny house materials' (square meter, DK, None)
+ 1    	 93		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(311.2) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 44.2) 	'tiny house materials' (square meter, DK, None)
+ 1    	 86		(267.0) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(870.7) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  6		( 56.3) 	'tiny house materials' (square meter, DK, None)
+ 1    	 94		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(390.0) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 32		(123.0) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 68		(267.0) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(336.1) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 69.0) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 79		(267.0) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(906.8) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 10		( 92.5) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 90		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_2010_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(970.4) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 16		(156.1) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 84		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(531.0) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 26		(137.7) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 74		(393.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(473.6) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 17		( 80.3) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 83		(393.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_cutoff391, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(916.3) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 11		(102.0) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 89		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+ecococon tinyhouse C2G,grobund tinyhouse_cutoff391, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(981.7) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 17		(167.3) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 83		(814.4) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 42, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(7011.6) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	  6		(434.2) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_de
+ 1    	 94		(6577.4) 	'market for residential energy, historical' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(5691.4) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  2		(137.0) 	'tiny house materials' (square meter, DK, None)
+ 1    	 98		(5554.3) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(5927.8) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	  6		(373.5) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 94		(5554.3) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(5807.0) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	  4		(252.7) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 96		(5554.3) 	'market for residential energy, tiny house, historical' (megajoule, DK
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 39, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(3791.5) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 10		(385.8) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_den
+ 1    	 90		(3405.7) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 42, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(6897.2) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	  5		(319.8) 	'Singlefamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-re
+ 1    	 95		(6577.4) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-retrospective-lca, 39, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(3606.3) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	  6		(200.6) 	'Multifamilywood_ecoinvent_cutoff_3.9_image_SSP2-Base_1970_denmark-ret
+ 1    	 94		(3405.7) 	'market for residential energy, historical' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(161.2) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 45		( 72.2) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-sc
+ 1    	 55		( 89.0) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(116.4) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 54		( 62.8) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-sc
+ 1    	 46		( 53.6) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(416.1) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 24		(100.9) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenari
+ 1    	 76		(315.2) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(118.4) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 55		( 64.7) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-sc
+ 1    	 45		( 53.7) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(333.9) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 50		(167.2) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-s
+ 1    	 50		(166.7) 	'market for residential energy, future' (megajoule, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(530.7) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 25		(135.3) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 75		(395.4) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(475.9) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 17		( 80.5) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 83		(395.4) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(415.2) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(256.0) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2
+ 1    	 38		(159.2) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(189.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(136.2) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_20
+ 1    	 28		( 53.6) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(170.8) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 43		( 72.7) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-sc
+ 1    	 57		( 98.1) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(258.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(160.7) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_20
+ 1    	 38		( 98.1) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(255.5) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 15		( 38.2) 	'tiny house materials' (square meter, DK, None)
+ 1    	 85		(217.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(386.0) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 49		(188.1) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenar
+ 1    	 51		(197.9) 	'market for residential energy, future' (megajoule, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(283.8) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 28		( 80.3) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 72		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(253.0) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 20		( 49.5) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 80		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(936.0) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 34		(317.6) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_d
+ 1    	 66		(618.4) 	'market for residential energy, future' (megajoule, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(308.9) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 33		(101.2) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 67		(207.7) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(266.0) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 22		( 58.3) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 78		(207.7) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(563.0) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 28		(156.6) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 72		(406.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(499.3) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 19		( 93.0) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 81		(406.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(257.1) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 64		(163.5) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_20
+ 1    	 36		( 93.6) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(251.8) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 15		( 38.5) 	'tiny house materials' (square meter, DK, None)
+ 1    	 85		(213.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(232.5) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 62		(144.4) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-s
+ 1    	 38		( 88.0) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(245.4) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 15		( 37.7) 	'tiny house materials' (square meter, DK, None)
+ 1    	 85		(207.7) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(462.7) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 12		( 56.4) 	'tiny house materials' (square meter, DK, None)
+ 1    	 88		(406.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(477.4) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 59		(279.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_d
+ 1    	 41		(197.9) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(234.8) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 61		(144.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-s
+ 1    	 39		( 90.9) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(115.2) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 55		( 63.3) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-sc
+ 1    	 45		( 51.9) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(463.9) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 22		(100.3) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenari
+ 1    	 78		(363.7) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(235.6) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 32.1) 	'tiny house materials' (square meter, DK, None)
+ 1    	 86		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(271.5) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 58.2) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 79		(213.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(317.4) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 33		(104.1) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 67		(213.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(725.3) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 42		(302.6) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_d
+ 1    	 58		(422.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(312.3) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 71		(221.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2
+ 1    	 29		( 90.9) 	'market for residential energy, future' (megajoule, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(319.8) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 66.0) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 79		(253.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(366.4) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 31		(112.6) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 69		(253.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(305.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(188.4) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk
+ 1    	 38		(116.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(249.5) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 64		(160.5) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_20
+ 1    	 36		( 89.0) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(403.6) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 62		(252.2) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2
+ 1    	 38		(151.4) 	'market for residential energy, future' (megajoule, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(254.2) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 20		( 50.7) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 80		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(283.1) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 28		( 79.6) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 72		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(585.9) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 38		(222.3) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk
+ 1    	 62		(363.7) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(235.7) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 32.2) 	'tiny house materials' (square meter, DK, None)
+ 1    	 86		(203.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(418.6) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 60		(251.8) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2
+ 1    	 40		(166.7) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(584.9) 	'tiny house C2G' (square meter, DK, None)
+ 1    	  9		( 55.1) 	'tiny house materials' (square meter, DK, None)
+ 1    	 91		(529.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(319.7) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 32		(102.4) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 68		(217.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-PkBudg500_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(276.1) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 21		( 58.8) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 79		(217.3) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(186.6) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(134.7) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_20
+ 1    	 28		( 51.9) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(318.1) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 52		(166.7) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2035_dk-s
+ 1    	 48		(151.4) 	'market for residential energy, future' (megajoule, DK, None)
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(682.5) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 22		(152.7) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 78		(529.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(622.5) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 15		( 92.7) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 85		(529.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(310.9) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(222.9) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2
+ 1    	 28		( 88.0) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(840.5) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 26		(222.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2035_dk-scenar
+ 1    	 74		(618.4) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(190.8) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 72		(137.1) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_20
+ 1    	 28		( 53.7) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(849.8) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 37		(315.4) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_d
+ 1    	 63		(534.4) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(329.1) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 52		(170.0) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-s
+ 1    	 48		(159.2) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilyconventional C2G,Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(315.4) 	'Singlefamilyconventional C2G' (square meter, DK, None)
+ 1    	 71		(224.3) 	'Singlefamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2
+ 1    	 29		( 91.1) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(458.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 46		(209.6) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk
+ 1    	 54		(248.6) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(195.7) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 40		( 79.0) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenari
+ 1    	 60		(116.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilyconventional C2G,Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(535.2) 	'Multifamilyconventional C2G' (square meter, DK, None)
+ 1    	 41		(219.9) 	'Multifamilyconventional_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk
+ 1    	 59		(315.2) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(339.1) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 27		( 90.5) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenari
+ 1    	 73		(248.6) 	'market for residential energy, future' (megajoule, DK, None)
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(294.4) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 40.7) 	'tiny house materials' (square meter, DK, None)
+ 1    	 86		(253.8) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(239.9) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 14		( 33.4) 	'tiny house materials' (square meter, DK, None)
+ 1    	 86		(206.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(630.9) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 33		(208.1) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenar
+ 1    	 67		(422.8) 	'market for residential energy, future' (megajoule, DK, None)
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(755.9) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 29		(221.5) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-Base_2050_dk-scenar
+ 1    	 71		(534.4) 	'market for residential energy, future' (megajoule, DK, None)
+
+Multifamilywood C2G,Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-scenarios, 44, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(167.0) 	'Multifamilywood C2G' (square meter, DK, None)
+ 1    	 44		( 73.4) 	'Multifamilywood_ecoinvent_cutoff_3.9_remind_SSP2-PkBudg500_2035_dk-sc
+ 1    	 56		( 93.6) 	'market for residential energy, future' (megajoule, DK, None)
+
+wood tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(259.6) 	'wood tinyhouse C2G' (square meter, DK, None)
+ 1    	 20		( 53.1) 	'wood tiny house materials' (square meter, DK, None)
+ 1    	 80		(206.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+ecococon tinyhouse C2G,grobund tinyhouse_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(291.2) 	'ecococon tinyhouse C2G' (square meter, DK, None)
+ 1    	 29		( 84.7) 	'ecococon tiny house materials' (square meter, DK, None)
+ 1    	 71		(206.5) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+tiny house C2G,tinyhouse_ecoinvent_cutoff_3.9_remind_SSP1-Base_2035_dk-scenarios, 20, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(443.8) 	'tiny house C2G' (square meter, DK, None)
+ 1    	 11		( 48.4) 	'tiny house materials' (square meter, DK, None)
+ 1    	 89		(395.4) 	'market for residential energy, tiny house, future' (megajoule, DK, No
+
+Singlefamilywood C2G,Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-scenarios, 55, square meter
+LEVEL 	CONTRIBUTION % 	(KG CO2) 	ACTIVITY
+0    	100		(237.7) 	'Singlefamilywood C2G' (square meter, DK, None)
+ 1    	 62		(146.6) 	'Singlefamilywood_ecoinvent_cutoff_3.9_remind_SSP5-PkBudg500_2050_dk-s
+ 1    	 38		( 91.1) 	'market for residential energy, future' (megajoule, DK, None)
+
